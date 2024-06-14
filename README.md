@@ -5,8 +5,8 @@
 ## 📃Table of Content :
 -   <a href="#Introduction">Introduction</a>  
 -   <a href="#Objective">Objective</a>  
--   <a href="#Working Procedure">Working Procedure</a>
--   <a href="#Tecnology">Tecnology</a>
+-   <a href="#Working-Procedure">Working Procedure</a>
+-   <a href="#Technology">Technology</a>
 -   <a href="#Conclusion">Conclusion</a>
 <!-- -   <a href="#ss">SnapShots</a> -->
 
@@ -33,7 +33,7 @@ the benefits and drawbacks of every algorithm in various contexts.
 information to improve work management and system performance
 through well-informed algorithm selection.
 
-#  <h2 class="Working Procedure">Working Procedure</h2>
+#  <h2 class="Working-Procedure">Working Procedure</h2>
 
  The following is a quick synopsis of how each CPU scheduling
 algorithm operates:
