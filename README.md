@@ -79,7 +79,7 @@ and the CPU is allocated to the next process in the queue.
 - STL (queue,priority queue)
 - console to see the results and interaction.
 
-# <h2 class="ConClusion">Conclusion</h2>
+# <h2 class="Conclusion">Conclusion</h2>
   Our comparative study of CPU scheduling techniques highlights the
 complex trade-offs between efficiency and simplicity, in conclusion.
 Although there isn't a single method that is always better, knowing their
