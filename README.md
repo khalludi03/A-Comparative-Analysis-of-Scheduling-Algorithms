@@ -3,11 +3,11 @@
 
 
 ## 📃Table of Content :
--   <a href="#Description">Introduction</a>  
--   <a href="#how-to-use-it">Objective</a>  
--   <a href="#disclaimer">Working Procedure</a>
--   <a href="#contributors">Tecnology</a>
--   <a href="#contributors">Conclusion</a>
+-   <a href="#Introduction">Introduction</a>  
+-   <a href="#Objective">Objective</a>  
+-   <a href="#Working Procedure">Working Procedure</a>
+-   <a href="#Tecnology">Tecnology</a>
+-   <a href="#Conclusion">Conclusion</a>
 <!-- -   <a href="#ss">SnapShots</a> -->
 
 
